@@ -1,4 +1,4 @@
-# Inventory Management System (C#)
+# Inventory Management System
  
 A simple warehouse inventory system built in C#, using a hash map
 (`Dictionary<int, Product>`) to store and manage products efficiently.
