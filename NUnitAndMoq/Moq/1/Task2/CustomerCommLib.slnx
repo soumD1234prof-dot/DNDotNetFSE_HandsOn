@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CustomerComm.Tests/CustomerComm.Tests.csproj" Id="086071c3-fcb7-4d4d-a318-a330d347faef" />
+  <Project Path="CustomerCommLib.Tests/CustomerCommLib.Tests.csproj" />
+  <Project Path="CustomerCommLib/CustomerCommLib.csproj" />
+</Solution>
