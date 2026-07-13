@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../UtilLib.Tests/UtilLib.Tests.csproj" />
+  <Project Path="UtilLib.csproj" Id="bf4d978e-9bb7-4cd0-bc06-e1764f01e3f7" />
+</Solution>
