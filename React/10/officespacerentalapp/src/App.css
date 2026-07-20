@@ -1,0 +1,50 @@
+.App {
+  text-align: left;
+  min-height: 100vh;
+  padding: 40px 20px;
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
+  background-color: #f9f9f9;
+}
+
+.content {
+  padding-left: 30px; 
+}
+
+.office-details {
+  margin-bottom: 30px;
+}
+
+.office-list {
+  list-style: none;
+  padding: 0;
+}
+
+.office-list li {
+  background-color: white;
+  margin-bottom: 20px;
+  padding: 15px 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  border-left: 5px solid #ddd;
+}
+
+h1, h3 {
+  margin: 10px 0;
+}
+
+hr {
+  margin: 40px 0;
+  border: none;
+  border-top: 2px solid #eee;
+}
+
+/* Keep your existing color classes */
+.textRed {
+  color: red;
+}
+
+.textGreen {
+  color: green;
+}
