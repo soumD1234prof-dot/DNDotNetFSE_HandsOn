@@ -1,0 +1,29 @@
+.complaint-container {
+  max-width: 500px;
+  margin: 50px auto;         
+  padding: 30px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  text-align: center;          
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.complaint-container h2 {
+  margin-bottom: 25px;
+}
+
+.complaint-container label {
+  display: inline-block;
+  width: 100px;
+  text-align: right;
+  margin-right: 10px;
+}
+
+.complaint-container input,
+.complaint-container textarea {
+  width: 300px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
