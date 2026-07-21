@@ -1,0 +1,23 @@
+.flexrow {
+  display: flex;
+  gap: 20px;
+}
+
+.st2, .mystyle1 {
+  padding: 0 20px;
+  border-right: 5px solid green;
+}
+
+.v1{
+  padding: 0 20px;
+}
+
+h3 {
+  margin-bottom: 2px;
+}
+
+h4 {
+  margin-top: 0;
+  font-weight: normal;
+  color: #555;
+}
